@@ -48,7 +48,7 @@ JavaScript with React, HTML with JSX, NodeJS, MongoDB with mongoose, Jest for te
 - Took a continuing ed. course in UX at the University of Washington. I was really into UX and user centered design for a while.  
 #### The Last Few Years
 - Reintroduced myself to programming with [Codecademy](https://www.codecademy.com/).  
-- Practiced JavaScript basics with [freeCodeCamp](https://www.freecodecamp.org/).  
+- Practiced JavaScript basics with [freeCodeCamp](https://www.freecodecamp.org/). Earned their [DSA certification](https://www.freecodecamp.org/certification/fccab6a54da-a98d-459a-833c-19b38579c980/javascript-algorithms-and-data-structures).
 - Put my skills to use in personal projects (the earliest ones aren’t on GitHub).  
 - Took [100 Days of Python](https://www.udemy.com/course/100-days-of-code/) on Udemy, which covers many domains within Python development and becomes increasingly hands off, requiring significant research and problem solving.  
 - Started [Full Stack open](https://fullstackopen.com/en/) for an introduction to React, Node.js, and MongoDB.  
