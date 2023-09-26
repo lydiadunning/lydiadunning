@@ -32,7 +32,7 @@ JavaScript with React, HTML with JSX, NodeJS, MongoDB with mongoose, Jest for te
 ## A Partial List* of Technologies I've Used
 | Language | Frameworks/Libraries | Testing Libraries | Databases
 | --- | ----------- | --- | --- |
-| JavaScript | React | Jest, Cypress | MongoDB, Firebase
+| JavaScript | React, Node | Jest, Cypress | MongoDB, Firebase
 | Python | Flask, Numpy, Pandas | Selenium | SQLite
 
 \* Not technically a list
