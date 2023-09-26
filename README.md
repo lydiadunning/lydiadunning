@@ -25,7 +25,7 @@ JavaScript with React, HTML with JSX, Firebase, uses React Router
 [The project’s PR 
 history](https://github.com/the-collab-lab/tcl-65-smart-shopping-list/pulls?q=is%3Apr+is%3Aclosed) - I contributed code or a code review to each PR.  
 
-[Food Plan](https://github.com/lydiadunning/food-plan) - a full stack web application.   
+[Food Plan](https://github.com/lydiadunning/food-plan/tree/new-model) - a full stack web application.   
 JavaScript with React, HTML with JSX, NodeJS, MongoDB with mongoose, Jest for testing  
 
 
