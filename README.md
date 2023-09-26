@@ -4,13 +4,13 @@
   
 ## My Best Work
 
-[Ditty](https://github.com/lydiadunning/Ditty) - a music composition project in JavaScript. Desktop only.
+[Ditty](https://github.com/lydiadunning/Ditty) - a music composition project in JavaScript. Desktop only.  
 JavaScript, SVG, HTML, CSS
 
 [I Know That Face](https://github.com/lydiadunning/Iknowthatface) - a Flask server which queries The Movie Database API and serves HTML pages showing the query results.  
 Python with Flask, HTML with Jinja, CSS
 
-[Age Calculator](https://github.com/lydiadunning/age_calculator) - a small, straightforward, responsive React application, working with Dates.
+[Age Calculator](https://github.com/lydiadunning/age_calculator) - a small, straightforward, responsive React application, working with Dates.  
 JavaScript with React, HTML with JSX, CSS, uses date-fns
 
 <!-- ## Examples of Specific Technologies
