@@ -15,7 +15,7 @@ JavaScript with React, HTML with JSX, CSS, uses date-fns
 
 #### Trying Out a New Technology
 
-[QR Code](https://github.com/lydiadunning/qr-code-component-main) - just a static page showing a QR code. The README documents my experience trying Lit.
+[QR Code](https://github.com/lydiadunning/qr-code-component-main) - just a static page showing a QR code. The README documents my experience trying Lit.  
 JavaScript with Lit, HTML and CSS are part of the LitElement class. 
 
 <!-- ## Examples of Specific Technologies
@@ -34,13 +34,11 @@ history](https://github.com/the-collab-lab/tcl-65-smart-shopping-list/pulls?q=is
 JavaScript with React, HTML with JSX, NodeJS, MongoDB with mongoose, Jest for testing  
 
 
-## A Partial List* of Technologies I've Used
+## Technologies I've Used
 | Language | Frameworks/Libraries | Testing Libraries | Databases
 | --- | ----------- | --- | --- |
 | JavaScript | React, Node | Jest, Cypress | MongoDB, Firebase
 | Python | Flask, Numpy, Pandas | Selenium | SQLite
-
-\* Not technically a list
 
 ## My History as a Programmer
 
