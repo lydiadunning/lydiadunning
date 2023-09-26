@@ -13,6 +13,11 @@ Python with Flask, HTML with Jinja, CSS
 [Age Calculator](https://github.com/lydiadunning/age_calculator) - a small, straightforward, responsive React application, working with Dates.  
 JavaScript with React, HTML with JSX, CSS, uses date-fns
 
+#### Trying Out a New Technology
+
+[QR Code](https://github.com/lydiadunning/qr-code-component-main) - just a static page showing a QR code. The README documents my experience trying Lit.
+JavaScript with Lit, HTML and CSS are part of the LitElement class. 
+
 <!-- ## Examples of Specific Technologies
 
 [Online Shop](https://github.com/lydiadunning/OnlineShop) - an ecommerce site using SQLite, not hosted.   
