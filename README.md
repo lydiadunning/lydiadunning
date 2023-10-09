@@ -4,7 +4,7 @@
   
 ## My Best Work
 
-[Ditty](https://github.com/lydiadunning/Ditty) - a music composition project in JavaScript. Desktop only.  
+[Ditty](https://github.com/lydiadunning/Ditty) - a music composition project in JavaScript. Uses code to draw SVG images of notes. Desktop only.  
 JavaScript, SVG, HTML, CSS  
 [Live Site Here](https://lydiadunning.github.io/Ditty/)  
 
