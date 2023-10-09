@@ -5,18 +5,28 @@
 ## My Best Work
 
 [Ditty](https://github.com/lydiadunning/Ditty) - a music composition project in JavaScript. Desktop only.  
-JavaScript, SVG, HTML, CSS
+JavaScript, SVG, HTML, CSS  
+[Live Site Here](https://lydiadunning.github.io/Ditty/)  
 
 [I Know That Face](https://github.com/lydiadunning/Iknowthatface) - a Flask server which queries The Movie Database API and serves HTML pages showing the query results.  
-Python with Flask, HTML with Jinja, CSS
+Python with Flask, HTML with Jinja, CSS  
+[Live Site Here](https://iknowthatface.onrender.com/) - please be patient, this loads slowly because the server is sleeping.  
 
 [Age Calculator](https://github.com/lydiadunning/age_calculator) - a small, straightforward, responsive React application, working with Dates.  
-JavaScript with React, HTML with JSX, CSS, uses date-fns
+JavaScript with React, HTML with JSX, CSS, uses date-fns  
+[Live Site Here](https://lydiadunning.github.io/age_calculator/)  
+
+#### With a Team
+
+[Smart Shopping List](https://github.com/the-collab-lab/tcl-65-smart-shopping-list) - The repo for the group project I contributed to at the Collab Lab.  
+JavaScript with React, HTML with JSX, CSS, Firebase, uses React Router  
+[The project’s PR history](https://github.com/the-collab-lab/tcl-65-smart-shopping-list/pulls?q=is%3Apr+is%3Aclosed) - For the first six weeks of the project, I contributed code or a code review to each PR.  
+[Live Site Here](https://tcl-65-smart-shopping-list.web.app/) - If this is taken down there should be a demo on youtube.
 
 #### Trying Out a New Technology
 
 [QR Code](https://github.com/lydiadunning/qr-code-component-main) - just a static page showing a QR code. The README documents my experience trying Lit.  
-JavaScript with Lit, HTML and CSS are part of the LitElement class. 
+JavaScript with Lit, HTML and CSS are part of the LitElement class.  
 
 <!-- ## Examples of Specific Technologies
 
@@ -24,12 +34,6 @@ JavaScript with Lit, HTML and CSS are part of the LitElement class.
 Python with Flask, SQLite with SQLAlchemy, HTML with Jinja, CSS, Stripe integration
 -->
 ## Currently Working On
-
-[Smart Shopping List](https://github.com/the-collab-lab/tcl-65-smart-shopping-list) - The repo for the group project I’m contributing to at the Collab Lab.  
-JavaScript with React, HTML with JSX, Firebase, uses React Router  
-[The project’s PR 
-history](https://github.com/the-collab-lab/tcl-65-smart-shopping-list/pulls?q=is%3Apr+is%3Aclosed) - I contributed code or a code review to each PR.  
-
 [Food Plan](https://github.com/lydiadunning/food-plan/tree/new-model) - a full stack web application.   
 JavaScript with React, HTML with JSX, NodeJS, MongoDB with mongoose, Jest for testing  
 
@@ -57,6 +61,7 @@ JavaScript with React, HTML with JSX, NodeJS, MongoDB with mongoose, Jest for te
 - Started [Full Stack open](https://fullstackopen.com/en/) for an introduction to React, Node.js, and MongoDB.  
 - Built projects from [Frontend Mentor](https://www.frontendmentor.io/) to practice React.  
 <!--- Sought out a community at 100 Devs, which directed me to resources where I learned about various topics I’d missed, like floats, the JavaScript event loop, and memoization. Joined intending to work in groups and try freelancing, wasn't happy with my progress on those fronts, and decided it wasn't the right fit for me. The community was too big and disorganized for me to get comfortable there, and encouraging participants to call the program an agency rather than a bootcamp is sus.-->
+- Practiced collaboration in [The Collab Lab](https://the-collab-lab.codes/).  After going it alone for so long, I knew I needed a structured environment to get more comfortable working with other developers and to build collaboration skills. I built so many skills for pair programming and working in a team, and I've seen the magic that can happen when successfully collaborating on a problem. 
 #### Now
 - Working through [Full Stack open](https://fullstackopen.com/en/), learning about testing for both express apps and React.  
-- Practicing collaboration in [The Collab Lab](https://the-collab-lab.codes/).  After going it alone for so long, I knew I needed a structured environment to get more comfortable working with other developers and to build collaboration skills. Nearing the end of the program, I’ve gotten over most of my discomfort, and I've also made progress in balancing my contributions with a pair partner. I've seen the magic that can happen when successfully collaborating on a problem. 
+
