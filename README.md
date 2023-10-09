@@ -38,7 +38,7 @@ JavaScript with React, HTML with JSX, NodeJS, MongoDB with mongoose, Jest for te
 | Language | Frameworks/Libraries | Testing Libraries | Databases
 | --- | ----------- | --- | --- |
 | JavaScript | React, Node | Jest, Cypress | MongoDB, Firebase
-| Python | Flask, Numpy, Pandas | Selenium | SQLite
+| Python | Flask, Numpy, Pandas | Selenium | SQLite, PostgreSQL
 
 ## My History as a Programmer
 
