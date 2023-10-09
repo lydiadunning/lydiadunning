@@ -27,6 +27,7 @@ JavaScript with React, HTML with JSX, CSS, Firebase, uses React Router
 
 [QR Code](https://github.com/lydiadunning/qr-code-component-main) - just a static page showing a QR code. The README documents my experience trying Lit.  
 JavaScript with Lit, HTML and CSS are part of the LitElement class.  
+[Live Site Here](https://lydiadunning.github.io/qr-code-component-main/) - inspect any element to see how it's nested under Lit's #shadow--root in the dom.
 
 <!-- ## Examples of Specific Technologies
 
