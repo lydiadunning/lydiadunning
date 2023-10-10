@@ -55,7 +55,8 @@ JavaScript with React, HTML with JSX, NodeJS, MongoDB with mongoose, Jest for te
 - Worked in video game software QA, testing for compliance with specifications.   
 - Took a continuing ed. course in UX at the University of Washington. I was really into UX and user centered design for a while.  
 #### The Last Few Years
-- Reintroduced myself to programming with [Codecademy](https://www.codecademy.com/).  
+- Reintroduced myself to programming with [Codecademy](https://www.codecademy.com/).
+- Worked through about half of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/).
 - Practiced JavaScript basics with [freeCodeCamp](https://www.freecodecamp.org/). Earned their [DSA certification](https://www.freecodecamp.org/certification/fccab6a54da-a98d-459a-833c-19b38579c980/javascript-algorithms-and-data-structures).
 - Put my skills to use in personal projects (the earliest ones aren’t on GitHub).  
 - Took [100 Days of Python](https://www.udemy.com/course/100-days-of-code/) on Udemy, which covers many domains within Python development and becomes increasingly hands off, requiring significant research and problem solving.  
