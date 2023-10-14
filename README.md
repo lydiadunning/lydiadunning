@@ -37,8 +37,6 @@ Python with Flask, SQLite with SQLAlchemy, HTML with Jinja, CSS, Stripe integrat
 ## Currently Working On
 [Food Plan](https://github.com/lydiadunning/food-plan/tree/new-model) - a full stack web application.   
 JavaScript with React, HTML with JSX, NodeJS, MongoDB with mongoose, Jest for testing  
-See how I solved a problem in this application by building a little REST api: [MiniGoalStepApi](https://github.com/lydiadunning/MiniGoalStepApi)
-
 
 ## Technologies I've Used
 | Language | Frameworks/Libraries | Testing Libraries | Databases
