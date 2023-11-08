@@ -21,7 +21,7 @@ JavaScript with React, HTML with JSX, CSS, uses date-fns
 [Smart Shopping List](https://github.com/the-collab-lab/tcl-65-smart-shopping-list) - The repo for the group project I contributed to at the Collab Lab.  
 JavaScript with React, HTML with JSX, CSS, Firebase, uses React Router  
 [The project’s PR history](https://github.com/the-collab-lab/tcl-65-smart-shopping-list/pulls?q=is%3Apr+is%3Aclosed) - For the first six weeks of the project, I contributed code or a code review to each PR.  
-[Live Site Here](https://tcl-65-smart-shopping-list.web.app/) - If this is taken down there should be a demo on youtube.
+[Live Site Here](https://tcl-65-smart-shopping-list.web.app/) <!--- If this is taken down there should be a demo on youtube. -->
 
 #### Trying Out a New Technology
 
