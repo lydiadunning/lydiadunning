@@ -26,7 +26,7 @@ JavaScript with React, HTML with JSX, CSS, Firebase, uses React Router
 #### Trying Out a New Technology
 
 [QR Code](https://github.com/lydiadunning/qr-code-component-main) - just a static page showing a QR code. The README documents my experience trying Lit.  
-JavaScript with Lit, HTML and CSS are part of the LitElement class.  
+JavaScript with Lit, HTML and CSS are part of the LitElement class
 [Live Site Here](https://lydiadunning.github.io/qr-code-component-main/) - inspect any element to see how it's nested under Lit's #shadow--root in the dom.
 
 <!-- ## Examples of Specific Technologies
@@ -35,13 +35,13 @@ JavaScript with Lit, HTML and CSS are part of the LitElement class.
 Python with Flask, SQLite with SQLAlchemy, HTML with Jinja, CSS, Stripe integration
 -->
 ## Currently Working On
-[Food Plan](https://github.com/lydiadunning/food-plan/tree/new-model) - a full stack web application.   
+[Food Plan](https://github.com/lydiadunning/food-plan/tree/new-model) - a full stack web app to help parents track how often they've offered a food to a child.  
 JavaScript with React, HTML with JSX, NodeJS, MongoDB with mongoose, Jest for testing  
 
 ## Technologies I've Used
 | Language | Frameworks/Libraries | Testing Libraries | Databases
 | --- | ----------- | --- | --- |
-| JavaScript | React, Node | Jest, Cypress | MongoDB, Firebase
+| JavaScript | React, Node | Jest, Cypress, Playwright | MongoDB, Firebase
 | Python | Flask, Numpy, Pandas | Selenium | SQLite, PostgreSQL
 
 ## My History as a Programmer
