@@ -35,7 +35,7 @@ JavaScript with Lit, HTML and CSS are part of the LitElement class
 Python with Flask, SQLite with SQLAlchemy, HTML with Jinja, CSS, Stripe integration
 -->
 ## Currently Working On
-[Food Plan](https://github.com/lydiadunning/food-plan/tree/new-model) - a full stack web app to help parents track how often they've offered a food to a child.  
+[Food Plan](https://github.com/lydiadunning/food-plan) - a full stack web app to help parents track how often they've offered a food to a child.  
 JavaScript with React, HTML with JSX, NodeJS, MongoDB with mongoose, Jest for testing  
 
 ## Technologies I've Used
