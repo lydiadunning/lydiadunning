@@ -64,5 +64,5 @@ JavaScript with React, HTML with JSX, NodeJS, MongoDB with mongoose, Jest for te
 <!--- Sought out a community at 100 Devs, which directed me to resources where I learned about various topics I’d missed, like floats, the JavaScript event loop, and memoization. Joined intending to work in groups and try freelancing, wasn't happy with my progress on those fronts, and decided it wasn't the right fit for me. The community was too big and disorganized for me to get comfortable there, and encouraging participants to call the program an agency rather than a bootcamp is sus.-->
 - Practiced collaboration in [The Collab Lab](https://the-collab-lab.codes/).  After going it alone for so long, I knew I needed a structured environment to get more comfortable working with other developers and to build collaboration skills. I built so many skills for pair programming and working in a team, and I've seen the magic that can happen when successfully collaborating on a problem. 
 #### Now
-- Working through [Full Stack open](https://fullstackopen.com/en/), learning about testing for both express apps and React.  
+- Working through [Full Stack open](https://fullstackopen.com/en/), learning about GraphQL, and working on my current project.  
 
