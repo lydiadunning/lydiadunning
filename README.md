@@ -57,7 +57,11 @@ JavaScript with React, HTML with JSX, NodeJS, MongoDB with mongoose, Jest for te
 - Reintroduced myself to programming with [Codecademy](https://www.codecademy.com/).
 - Worked through about half of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/).
 - Practiced JavaScript basics with [freeCodeCamp](https://www.freecodecamp.org/). Earned their [DSA certification](https://www.freecodecamp.org/certification/fccab6a54da-a98d-459a-833c-19b38579c980/javascript-algorithms-and-data-structures).
-- Put my skills to use in personal projects (the earliest ones aren’t on GitHub).  
+- Put my skills to use in personal projects (the earliest ones aren’t on GitHub).
+    - beanTML, a single page of HTML about beans.
+    - The Plant, an attempt to recreate the indie solo RPG The Plant, which was orders of magnitude more difficult than I imagined starting out. Gave up.
+    - SimpleJournal, a journalling app that saves entries on the client device, with a default name of the current date.
+    - Ditty, a music game I recreated because its website shut down days after I gave it to my son, see link above.
 - Took [100 Days of Python](https://www.udemy.com/course/100-days-of-code/) on Udemy, which covers many domains within Python development and becomes increasingly hands off, requiring significant research and problem solving.  
 - Started [Full Stack open](https://fullstackopen.com/en/) for an introduction to React, Node.js, and MongoDB.  
 - Built projects from [Frontend Mentor](https://www.frontendmentor.io/) to practice React.  
