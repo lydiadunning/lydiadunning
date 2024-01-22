@@ -59,7 +59,7 @@ JavaScript with React, HTML with JSX, NodeJS, MongoDB with mongoose, Jest for te
 - Practiced JavaScript basics with [freeCodeCamp](https://www.freecodecamp.org/). Earned their [DSA certification](https://www.freecodecamp.org/certification/fccab6a54da-a98d-459a-833c-19b38579c980/javascript-algorithms-and-data-structures).
 - Put my skills to use in personal projects (the earliest ones aren’t on GitHub).
     - beanTML, a single page of HTML about beans.
-    - The Plant, an attempt to recreate the indie solo RPG The Plant, which was orders of magnitude more difficult than I imagined starting out. Gave up.
+    - The Plant, an attempt to recreate the indie solo RPG The Plant, which was orders of magnitude more difficult than I imagined starting out. Abandoned the project when I got tired of scrolling through pages of conditional statements.
     - SimpleJournal, a journalling app that saves entries on the client device, with a default name of the current date.
     - Ditty, a music game I recreated because its website shut down days after I gave it to my son, see link above.
 - Took [100 Days of Python](https://www.udemy.com/course/100-days-of-code/) on Udemy, which covers many domains within Python development and becomes increasingly hands off, requiring significant research and problem solving.  
