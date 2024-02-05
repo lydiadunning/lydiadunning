@@ -1,6 +1,10 @@
 # Hi, I’m Lydia.
 #### Here's some stuff I've made  
   
+## Currently Working On
+[Food Plan](https://github.com/lydiadunning/food-plan) - a full stack web app to help parents track how often they've offered a food to a child.  
+JavaScript with React, HTML with JSX, NodeJS, MongoDB with mongoose, Jest for testing. Styled with Radix UI.  
+[Live Site Here](https://food-app.fly.dev/)
   
 ## My Best Work
 
@@ -34,9 +38,6 @@ JavaScript with Lit, HTML and CSS are part of the LitElement class
 [Online Shop](https://github.com/lydiadunning/OnlineShop) - an ecommerce site using SQLite, not hosted.   
 Python with Flask, SQLite with SQLAlchemy, HTML with Jinja, CSS, Stripe integration
 -->
-## Currently Working On
-[Food Plan](https://github.com/lydiadunning/food-plan) - a full stack web app to help parents track how often they've offered a food to a child.  
-JavaScript with React, HTML with JSX, NodeJS, MongoDB with mongoose, Jest for testing. Styled with Radix UI.  
 
 ## Technologies I've Used
 | Language | Frameworks/Libraries | Testing Libraries | Databases
